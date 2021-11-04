@@ -30,6 +30,7 @@ For the third project of the SEI, the task was to make a full stack application.
 
 Promptly after deciding our theme for the full-stack app, we firstly drew wire-frames of what our intended finish product may look like. This helped us to understand how we might break-down different parts of the app into several React components.
 Through the use of pseudo-code, we were able to map out the logic/functionality that would bring our design to life.
+
 <img src="https://i.imgur.com/Wom0YXv.png" alt="pintpirate-page-home" width="400" /><img src="https://i.imgur.com/jnsCrpm.png" alt="pintpirate-page-citylist" width="400" /><img src="https://i.imgur.com/gFiPSMu.png" alt="pintpirate-page-card" width="400" />
 
 ## Process🍺
