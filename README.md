@@ -63,7 +63,7 @@ Below is an example of how we handled a user posting a review. We spread in the 
 After completing the back-end quite quick as a group. we decided to divide among ourselves when it came to front-end. Using CSS, SASS and Bootstrap to style our pages. One of my task was to style to  city card page which displays all the information about each city and the location of the cheapest pint. Using flexbox properties for positioning made the website responsive in a way where it scales good even on small screens. I had to incorporate mapbox map into one of our pages which adds a nice touch for branding.
 
  ## Wins & Blockers
- I found working as a part of a team very beneficial, collaborative work seemed to amp up my delivery and code quality to a whole nother level and the encouraging team spirit keep our collective work to a high standard.
+ I found working as a part of a team very beneficial, collaborative work seemed to amp up my delivery and code quality to a whole another level and the encouraging team spirit keep our collective work to a high standard.
 
 This was my first time working with Git as a member of a team so I had some teething problems with getting used to checking out and merging feature branches. Good communication was key to avoid major merge conflicts.
 
@@ -71,4 +71,4 @@ This was my first time working with Git as a member of a team so I had some teet
 Implementing the mapbox was quite challenging. Initially we wanted a map with markers on it showing every location of the map on the backend but when i came across mapbox gl. My team and I came to a conclusion we will go with normal map style where user can search for any location with it including the cities and pubs.
 
 ## Key learnings
-This project was definitely the most challenging up to date, bringing together everything we'd learnt on the course so far. Working in a team of 4 had its challenges, and I learnt a lot about the importance of stand ups and regular communication. Having each team member taking ownership of their respective area of responsibility, I came to realise the importance of a managing entity in a development team, i.e. to have someone leading the process and holding all the strings.
+This project was definitely the most challenging up to date, bringing together everything we'd learnt on the course so far. Working in a team of 3 had its challenges, and I learnt a lot about the importance of stand ups and regular communication. Having each team member taking ownership of their respective area of responsibility, I came to realise the importance of a managing entity in a development team, i.e. to have someone leading the process and holding all the strings.
